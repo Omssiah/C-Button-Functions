@@ -9,7 +9,7 @@ MINIMIZE BUTTON:
 WindowState = FormWindowState.Minimized;
 
 ---------------------
-OPEN FILE
+OPEN FILE:
 
 
 OpenFileDialog openFileDialog1 = new OpenFileDialog();
